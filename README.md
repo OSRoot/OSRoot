@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OSRoot
 - 👀 I’m interested in Linux and python Language.
 - 🌱 I’m currently learning both linux and python.
-- 💞️ I’m looking to collaborate on compiling a new kernel.
+- 💞️ I’m looking for collaborating on compiling a new kernel.
 - 📫 How to reach me <osamaessayed.el.4468@azhar.edu.eg>
 
 <!---
