@@ -5,9 +5,9 @@
 - 😎 Postgresql 
 - 💪 Fond of C++ => opp
 - 👀 I’m interested in Linux and python Language.
-- 🌱 I’m currently learning both linux and python.
-- 💞️ I’m looking for collaborating on compiling a new kernel (Years ago now).
-- 📫 How to reach me <osamaessayed.el.4468@azhar.edu.eg>
+- 🌱 I’m currently learning Angular and Ionic.
+- 💞️ I’m looking for node js and full-stack jobs and available for work.
+- 📫 My Email _> <osamaessayed.el.4468@azhar.edu.eg>
 
 <!---
 OSRoot/OSRoot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
