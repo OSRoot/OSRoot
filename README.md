@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @OSRoot, My real Name Osama Essayed
-- 😁 I Love Web Development Specially Backend with node js 
+- 😁 I Love Web Development Specially Backend with nodejs 
 - 😊 I Know node js , angular, expressjs, and mongodb (MEAN)
+- 🚀 Full-stack developer Using NodeJS, Angular, MySQL. 
 - 😊 Very Good at using nodejs and expressjs
 - 🙌 Circleci is an amazing ci tool and free, it makes me deploy fast and efficient
 - 😎 Postgresql 
